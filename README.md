@@ -1,0 +1,2 @@
+# Option-Anomalies-on-the-SPX-ETF-using-deep-learning
+This is an engineering school projet in deep learning. The goal was to identify price anomalies, whether an option is over valued or under valued on the SPX. I  have worked on an ETF SPX with sufficient liquidity and sufficient data. The data base use for this model is taken from Kaggle and the link to get an access to it is present in the README.
